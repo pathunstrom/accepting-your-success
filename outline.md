@@ -42,6 +42,9 @@
 5. Transition
     1. Childhood goals
         1. Not how I imagined
+            1. Star Wars Card Trader
+            2. PursuedPyBear
+            3. Publishing contract
         2. But I am a woman I would have looked up to, and that's enough.
 6. Lifting Others
     1. Quote - JP
