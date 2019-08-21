@@ -14,3 +14,4 @@
         * Write a great book
         * Be an author (you know, one that gets paid)
         * Work on Star Wars
+* "Success has to be defined individually, but we achieve our successes with help from our community."
