@@ -1,145 +1,226 @@
-Thank you everyone for being here. 
+Lately, I've been reading a book written by Adam Savage. You know, the
+Mythbusters guy. In it, he observed a thing about his life (and life in
+general):
 
-I want to thank Jon and the rest of the organization team for continuing to put on an awesome conference. And thanks to Dan
-specifically for the invite to keynote here today.
+> Life stories always look like straight lines from the vantage point of looking
+> back, but precious few really are.
 
-*Deep breath*
+I have to admit, I read this and was absolutely floored. It's been something of
+a theme for my life the last few months. Really, it's a truth about my own life
+I've been struggling to internalize. So if you'll forgive me the indulgence,
+I'm going to break one of my rules on speaking, and talk about myself for a
+while.
 
-So I was just introduced, but I'd love to talk a little more detail about who I am. In some ways, these are affirmations.
-As a speaker, this is my 10th conference talk. Many of those were here, at Pygotham. Mostly, I talk about games. Some
-version of my making games talk has now been given at four different conferences, including PyTennessee, PyOhio, and PyTexas.
-Games are one of my favorite things, and I built a career on that interest.
+Before we move further, I want to provide a content warning. Some of you may
+have seen my talk Monkeypatching my Life, but for those who don't: My story is
+full of trauma. I've experienced things that terrify me to this day. I've also
+been struggling of late, and plan to talk about those struggles today. If
+discussions of suicide ideation, domestic violence, and transphobia will be
+triggering or upsetting, I encourage you to leave the room and take care of
+yourself. I will preface sections in which I talk about these concepts to allow
+you a chance to leave before they come up.
 
-Two years ago, on this same stage, I gave a talk about my transition as a member of the New York python community. I was
-an active member of NYC Python and Learn Python NYC when I realized I was trans and started my transition. In many ways,
-the folks I thanked at the beginning of my introduction made it possible for me to be here in more than one way.
+In the scattered paths of my last year, I got to sit down, and think about the
+idea of success. I'm on stage keynoting at one of my favorite professional
+conferences I think we can all agree I've achieved something that could be
+called success. I've spent the last six month recognizing that word applies to
+me. It's been a difficult sort of processing. So let's start at a beginning.
 
-I've spent a lot of time volunteering and organizing in this community, and only recently stepped back from that role.
+As a child, I fell in love with _stories_. Not just listening to them, but
+making them. By the time I was twelve, I had cemented a dream that I wanted to
+be a writer. Excuse me, not a writer, an author. Young me put some magic into
+distinctions that I've carried to this day.
 
-Bringing all of these facts together, I'm the author and co-maintainer of PursuedPyBear, an education focused game library.
-I'm sure by now, you've all seen the stickers with our logo, and maybe one of my talks on the topic at other conferences.
-If not, there'll be a PPB talk across the hall after the break, and I encourage anyone at all interested to attend.
+Some of my earliest memories of feeling successful were winning school writing
+contests. I threw myself into it. By hand in notebooks, on an old electric type
+writer my mom gave me access to, and eventually on my family's first computer.
 
-*Deep breath*
+Unfortunately, I didn't know how you'd go about being paid for writing, so at 15
+I got my first job, working the backroom of a pretzel shop. It gave me money,
+which was cool, but because my family was involved in the operating of the
+business, I got to see another skill set that seemed interesting.
 
-So let's actually talk about success. I'll admit up front, that word is filled with fear for me. Over the years, I've spent
-a lot of time failing in more ways than one. That's part of why I opened this talk discussing the more conventional kinds
-of success I've managed in my life.
+As high school drew to a close, I had to make plans, and the closest thing I had
+was "maybe run a business? Or start one?" It didn't happen. I ended up working
+backroom at big box stores, and then at a bunch of game shops. Would it
+shock you to learn I'm an unrepentant nerd? No, seriously, and I was a young
+teen when the Star Wars prequels came out. For a kid who wanted to be a writer,
+seeing her favorite franchise blossom back to life was fuel for some serious
+dreams.
 
-I want to call attention to that phrasing: Conventional success. Our society is built so that "success" comes with an implicit
-meaning: Making more money. Gaining power. Getting prestige. It's getting a raise, being invited to keynote, it's getting
-noticed by people.
+But I grew up. I didn't go to college straight out of high school. I was one of
+those scrappy folks who kept applying myself to new things.
 
-? ? ? ?
+*breath once*
 
-But there's a different kind of success. That kind that comes when you get to pick what counts and make it to those goals.
-It's like goal setting, but with an extra edge of dreaming.
+*breath once*
 
-I recently read a quote from Adam Savage:
+So this is where I want to pause. The next section is brief, but includes
+non-detailed discussions of domestic violence and depression. If you need to
+leave, now is a good time.
 
-> Life stories always look like straight lines from the vantage point of looking back,
-but precious few really are.
+On screen I'm including a hotline for both suicidal crises and domestic
+violence. If you need help, please reach out.
 
-He would tell you his wasn't, and I can tell you from where I'm standing that mine definitely isn't.
-Yours probably isn't, either.
+I got married. It didn't take long for things to get bad. During it all, I was
+cut off from my family and friends, and I lost at least one job due to the
+control my partner demanded. We even had kids during all of this, and it was
+hard. Shortly after my daughter was born, we got out.
 
-I stand up here, software engineer, open source maintainer and public speaker, but this wasn't my first choice in career.
-Hell, it's not even my second or third. And I'll be honest: it probably won't be my last.
+That reset much of any progress I had made in my life. I was now a single
+parent, living with my family again.
 
-It actually started with a dream I know a lot of people have: I was going to be a professional author. I started at twelve,
-where I wrote into notebooks and an old electric type writer my family owned. By that point I read voraciously and turned
-around and wrote more.
+*two breaths right here.*
 
-It was a time I could be genuinely fearless in my art because I didn't know there was anything to fear.
+So I started picking up the pieces. I decided to lean into that business
+interest. And maybe, at the same time, pick up some tech skills since I'd always
+been fascinated with computers, but lived at a means that meant we had one
+computer, and I was afraid of messing that up for everyone else.
 
-As I got older, I joined writing groups, both online and offline. It was around that time in my life that I let in a
-dangerous idea:
+So I entered a business program at the local tech college. My degree is in
+Management Information Systems, and I got to spend a lot of time in both the
+business department and the comp sci department.
 
-I considered myself "aspiring".
+During this time, I was rebuilding my writing interest. I'd never really
+stopped, but I was going to get serious about it this time. I started a blog.
+Was building up a following on twitter. I even used my research projects during
+college to dig deep into the industry.
 
-So did most of my friends. After all, we were aspiring for something. We wanted to be published. We wanted friends, *pause* and fans.
-The thing is, we were putting in the effort every day. Writing the words, editing, studying. Writing as a profession is hard
-and harrowing. And each and every one of us were doing it.
+I was lucky, I was in college just as the Kindle was taking off, and the
+industry kept changing every semester. It was around this time that my first
+significant battle with my mental health happened. I wasn't a stranger to
+depression, though I didn't know that's what it was. But in college, I excelled
+in school, kept up the facade that was my online presence, but at home, I was
+left without any energy to keep things up. It caused no end of fighting with my
+family.
 
-As my life story goes, though, this is only the beginning. I realized I was working very hard, and not getting closer to surviving
-on my career path, so I started poking at other things.
+Eventually, I graduated with honors, and immediately imploded. I lost a job due
+to a business closing, and I didn't have the will power to find a new one. I put
+some effort into it, but I was looking for jobs to use my new degree, and most
+of those wanted more technical background than my degree added. It was also
+2012, and places wanted half a decade of experience and a stronger degree for
+entry positions. Because even at my worst, I've got a need to be doing
+_something_ I decided I'd keep working toward that analyst job I was hoping to
+get.
 
-My family has a long history of small business owners. My grandparents owned their own businesses, my mother has owned multiple as
-well. I grew up aware of what it took to run a small business well enough to survive. So I made a decision, and changed my dream a
-little. I decided I'd get into management, and maybe eventual ownership. I worked at game shops, and eventually was managing pretty
-quickly. Eventually, I realized to go further, I'd need to go to college.
+Enter Python. It just so happened that Python was the most popular answer on
+the internet for "I've never programmed before, where do I start." I'm glad it
+did. I dove into a couple of books, one of which was Al Sweigart's _Inventing
+Games With Python and Pygame._ It was around this time that I realized my
+writing dream wasn't helping. I formally quit writing. I told my audience I was
+done and walked away. The last blog post I ever posted was talking about Al's
+book.
 
-So I did. Went and got myself a business degree. I was still writing, in fact, being in a business program gave me an excuse to
-study the industry of publishing in much more detail. And even better: I was in college during early years of the kindle,
-so the industry was changing every quarter. I got to do research reports on new developments. I got to write about the
-price fixing case with Apple and the Big Five. I also was running a semi-professional blog, and joining new writing groups,
-this time with people whose names you might know. I also ended up editing on the side, helping people I'd known for years.
+I really threw myself into Python. I built a little prototype video game only
+months after my first "Hello World". Eventually picked up Flask.
 
-As I got close to graduating, I began looking for jobs. The problem: I graduated in 2012, and the recession was still ongoing.
-Positions I would normally qualify for were asking for the next greater degree and more experience than I could have possibly had.
-In addition, I was struggling with mental health.
+Then there was the fight. I'm not discussing the details, but my mother and I
+faced irreconcilable differences, and it was then I admitted to the emotions I'd
+been fighting for years at that point: I wanted to die. My mother's response at
+that time was not compassionate, and I left home the next day.
 
-A detail I left out is that I'm a domestic violence survivor. The many years of harm and the lack of professional help were taking
-their toll on me. One day I looked at my writing career and realized I was never very happy writing. It wasn't the storytelling itself
-but I found fiction was a chore to write, and worse to edit afterwards. So I made a decision.
+**Count to ten.**
 
-I quit. Gave up writing all together. It hurt, at first. So much of my identity was wrapped up in being a writer.
+I want to be clear: I love my mother, and I am very intentionally sparing
+details because we have repaired our relationship from this time. But it is
+important to _my_ story.
 
-*Deep breath*
+I ended up homeless. Couch surfed for a lot of it. Ended up working backstage at
+a local theater. Eventually, I made my way to New York where I had some friends.
+I did whatever I could to feed myself. Ended up freelancing a lot. Editing.
+Small web apps. Data entry. Hardware installation. Anything I could do.
 
-I went back to business, and more importantly, found a sweet spot between business and tech that I found I was quite good at.
-Specifically, I graduated with a Management Information Systems degree, and was trained to perform the role they used to call
-"business analyst". Nowadays, we'd call them product owners or project managers depending on who you talk to. To romanticize it a bit,
-we were the translators between the business and tech worlds.
+It would be six months in the city before I found the Python community here. A
+temp company I worked with suggested I check them out. And I did.
 
-The problem is, I was the very last graduate at my college with my degree. It was being phased out for other things, and business
-analyst came to mean something very different not long after. And all of the positions I was trained to do, as I said, wanted more
-experience, even for junior positions. Oh, and they wanted more technical backgrounds. With actual programming experience.
+I got so lucky. My first meetup, I met a recruiter who introduced me to a
+company that hired me. I had my first actual paycheck in over a year only a
+month later.
 
-Enter Python.
+I was working on web apps, a place I found I excelled. It was awesome when one
+of our clients got a Star Wars app that was on our plate, and I got to spend
+over a year working on a Star Wars product.
 
-I wrote my first line of Python in December 2012. Not because I wanted to be a programmer, but because I needed it.
-Unsurprisingly if you think about it, I ended up loving Python. Only three months later, I wrote my first video game. It was pure
-Python, all built on pygame. I was still looking for my career, but I'd found a pretty solid side gig.
+It was at that time that Paul Logston first encouraged me to submit to Pygotham.
+I didn't expect anything to come out of it, but I gave my first technical talk
+the same year I entered the industry.
 
-I wrote a couple of small web apps as a freelancer, eventually moved to New York. But I still hadn't found a steady job.
+Between PyGotham 2014 and 2015, I realized I was trans and transitioned. I gave
+a new talk on Pygame, a revamped version of my 2014 talk, but then under a new
+name.
 
-Then a temp agency I was working with suggested I check out meetup for the Python group. I did, joined NYC Python and
-Flask NYC that week. I went to my first meetup event not long after, and met the recruiter that got me my first software
-engineer position.
+I think this is a good stopping point for this story.
 
-I stayed active in the group, and not long after, I was encouraged by Paul Longston to submit a talk to the local Python conference.
-I'd literally only been programming for two years at this point, there couldn't possibly be anything I could talk about. But I knew
-Pygame, and he encouraged me to at least write the proposal. I did, with only hours from the deadline.
+So let's actually talk about success.
 
-I got accepted, and so two months after my first real software engineering job, I was on a stage at PyGotham, talking at Pygame.
+I grew up thinking success meant independantly wealthy. I'm not even sure where
+I developed that notion, because my family is most decidedly not. But a thing
+I did learn from my family is that success is about moving forward. And from my
+Mom I learned the importance of building and supporting community.
 
-That first job was a lot of fun, I got to work on some cool projects, primarily the Topps trading card apps, including Star Wars
-card trader.
+So with that idea in hand, here's my moving forward:
 
-We're going to skip ahead, but in summary, I stayed involved with the community, giving three more talks at PyGotham before today.
-During that time, I started a project called PursuedPyBear. It's a game library that started as "here's some neat ideas I did
-in this one game I built, I should explore that", morphed to help with the amount of boilerplate I was writing in Pygame, and
-eventually gained the goal of being education friendly. That project is now three years old, and we have a logo, and Casey is
-giving a talk about it across the hall after this and I'm so excited.
+One: I mentioned, I worked on a Star Wars product. For over a year! Young me is
+super impressed.
 
-I opened this talk with thoughts about success, and about defining our own metrics for success. When my story started, success had
-a few components:
+Two: I wrote something important. People care about ppb in ways I honestly
+didn't expect. Caisey Faist is talking about it in the next speaking block! The
+excitement has been worth all that effort.
 
-1. I wanted to be a published author.
-2. Preferrably making my living that way.
-3. I wanted people to love my books the way I loved my favorites growing up.
-4. And you know, it'd be cool to do a Star Wars thing one day.
+Three: Through my awesome community, I've recently seen books on the shelf that
+I helped get there. Back in November, I signed a contract with a major publisher
+to do technical vetting of a learn the program book written by a friend of mine.
 
-So, here I am, thinking about my own success. Let's see some easy ones: Star Wars, I worked on a Star Wars thing!
+Four: I have fallen in love with public speaking. I get to meet such cool
+people, and share ideas I find important. And this is my first keynote.
 
-I've got a library that people care enough about to give talks about it. I'd say that counts as #3.
+For as troubling as I find the concept of success, I think I like my own image
+of success, it means a lot to me.
 
-I'm making a living using the same skills I used for 4 and 3, so I guess I've got #2?
+So that's me: A domestic violence survivor, a trans woman, a game developer, and
+a book editor that struggles with suicide ideation and loves her community.
 
-But I never got published. Well, that was true, until recently. Last November, a friend of mine had a book in the editing phase, and
-she suggested myself to do the technical vetting on her book. The editor reached out to me, and I took the contract.
+The title of this talk changed late in its life, when a friend of mine had a
+dream in which I read a poem called semicolon return. It was incredibly apt as
+I've been wrestling the last month with intense suicide ideation. For those who
+don't know, there is a thing called the Project semicolon, a suicide prevention
+project. It was first introduced to me by people who shared their story. The
+advertising tag they used is "Your story isn't over."
 
-So while I didn't write it, there's now a book on the shelves with my name in the credits. And you know what? I'm taking that as a win.
+It's important to me that much of what I write when I get personal is not for
+myself. It's for the me of 10 and 20 years ago. The little kid who will be going
+through a world of hurt. It's for the friends I have _now_ who haven't reached
+out. I stand on a stage and be vulnerable because I needed people to do that for
+me.
 
-So here I am, a success by my own metrics. What the hell do I do from here?
+We are community. You should recognized it by now, but if you haven't let me
+introduce you to my favorite slogan in Python: Come for the language, stay for
+the community.
+
+I didn't get to stand here because I worked hard and made it happen, though I
+had to do that to. I had peers and mentors who helped lift me up when I was at
+my lowest. So I want to leave you all with a challenge: I'm going to ask you to
+give back. If you're new to the community: go find a local event and volunteer.
+If you've been around, think about what it is you do well, and help someone else
+do it to.
+
+The easiest example I can give is most of the experienced devs in this room have
+contributed to open source before. If you're one of those, if you're willing to
+coach a newer developer to their first contribution, stand up. To anyone in the
+audience who doesn't know how to get started: Look around. Find one of these
+people. Talk to them. Ask for their help. And then, you should find someone
+newer than you, and help them.
+
+I'd like you to go away with these thoughts:
+
+Every one of us has something to contribute to our community. If you've been
+around, you should look for people you don't recognize and new faces and help
+lift them up.
+
+Stop treating societal expectations as success metrics: write your own success
+story.
+
+If you're struggling with your mental health: you're not alone. Don't be afraid
+to reach out to those around you.
+
+Thank you.
