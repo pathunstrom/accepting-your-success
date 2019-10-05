@@ -22,7 +22,7 @@ you a chance to leave before they come up.
 
 In the scattered paths of my last year, I got to sit down, and think about the
 idea of success. I'm on stage keynoting at one of my favorite professional
-conferences I think we can all agree I've achieved something that could be
+conferences. I think we can all agree I've achieved something that could be
 called success. I've spent the last six month recognizing that word applies to
 me. It's been a difficult sort of processing. So let's start at a beginning.
 
@@ -74,8 +74,8 @@ parent, living with my family again.
 
 So I started picking up the pieces. I decided to lean into that business
 interest. And maybe, at the same time, pick up some tech skills since I'd always
-been fascinated with computers, but lived at a means that meant we had one
-computer, and I was afraid of messing that up for everyone else.
+been fascinated with computers, but my family was poor enough that we had only
+one computer, and I was afraid of messing that up for everyone else.
 
 So I entered a business program at the local tech college. My degree is in
 Management Information Systems, and I got to spend a lot of time in both the
@@ -83,7 +83,7 @@ business department and the comp sci department.
 
 During this time, I was rebuilding my writing interest. I'd never really
 stopped, but I was going to get serious about it this time. I started a blog.
-Was building up a following on twitter. I even used my research projects during
+Was building up a following on Twitter. I even used my research projects during
 college to dig deep into the industry.
 
 I was lucky, I was in college just as the Kindle was taking off, and the
@@ -145,37 +145,62 @@ It was at that time that Paul Logston first encouraged me to submit to Pygotham.
 I didn't expect anything to come out of it, but I gave my first technical talk
 the same year I entered the industry.
 
-Between PyGotham 2014 and 2015, I realized I was trans and transitioned. I gave
-a new talk on Pygame, a revamped version of my 2014 talk, but then under a new
-name.
+Between PyGotham 2014 and 2015, I realized I was trans and started
+transitioning. This story is getting a little long, though, but I gave a talk
+about my transition in 2017 here at PyGotham, which you can see on youtube. That
+year's PyGotham I gave a new talk on Pygame, a revamped version of my 2014 talk,
+but then under my new name.
+
+Not long after, I started a little project called ppb. A game framework that
+evolved into an education focused game engine.
 
 I think this is a good stopping point for this story.
 
 So let's actually talk about success.
 
-I grew up thinking success meant independantly wealthy. I'm not even sure where
+I grew up thinking success meant independently wealthy. I'm not even sure where
 I developed that notion, because my family is most decidedly not. But a thing
 I did learn from my family is that success is about moving forward. And from my
 Mom I learned the importance of building and supporting community.
 
-So with that idea in hand, here's my moving forward:
+Semicolon, return.
+
+I think one of my least favorite parts of society's definition of success is
+the lie that success means "the end." The problem is, it's not. Our stories keep
+going after we meet success.
+
+So with that idea in hand, here's me moving forward:
 
 One: I mentioned, I worked on a Star Wars product. For over a year! Young me is
 super impressed.
 
 Two: I wrote something important. People care about ppb in ways I honestly
 didn't expect. Caisey Faist is talking about it in the next speaking block! The
-excitement has been worth all that effort.
+excitement has been worth all that effort. We just released 0.7.0 a few weeks
+ago, and I'm actually getting to take a break from the project during the next
+release cycle, and it's going to continue to see work and care. Watching my
+project take on a life of its own is super important to me.
 
-Three: Through my awesome community, I've recently seen books on the shelf that
-I helped get there. Back in November, I signed a contract with a major publisher
-to do technical vetting of a learn the program book written by a friend of mine.
+Three: Through my awesome community (And a recommendation from Meg Ray, you'll
+hear from her later), I've recently seen books on the shelf that I helped get
+there. Back in November, I signed a contract with a major publisher to do
+technical vetting of a learn the program book written by a friend of mine.
 
 Four: I have fallen in love with public speaking. I get to meet such cool
-people, and share ideas I find important. And this is my first keynote.
+people, and share ideas I find important. And this is my first keynote!
 
-For as troubling as I find the concept of success, I think I like my own image
-of success, it means a lot to me.
+*pause for applause*
+
+I've spent the last ten minutes or so talking about my success. My goal is to
+talk about the "accepting" part.
+
+I'm going to be honest: I don't think I'm doing well with that part. What I
+learned while writing this talk is that that's still hard. But there's a thing
+I did figure out: I can affirm my success. And I think that's the first step
+on the road to believing it.
+
+For as troubling as I find the concept of success, I think I like my own
+definition, it is starting to mean a lot to me.
 
 So that's me: A domestic violence survivor, a trans woman, a game developer, and
 a book editor that struggles with suicide ideation and loves her community.
@@ -183,7 +208,7 @@ a book editor that struggles with suicide ideation and loves her community.
 The title of this talk changed late in its life, when a friend of mine had a
 dream in which I read a poem called semicolon return. It was incredibly apt as
 I've been wrestling the last month with intense suicide ideation. For those who
-don't know, there is a thing called the Project semicolon, a suicide prevention
+don't know, there is a thing called Project semicolon, a suicide prevention
 project. It was first introduced to me by people who shared their story. The
 advertising tag they used is "Your story isn't over."
 
@@ -193,7 +218,7 @@ through a world of hurt. It's for the friends I have _now_ who haven't reached
 out. I stand on a stage and be vulnerable because I needed people to do that for
 me.
 
-We are community. You should recognized it by now, but if you haven't let me
+We are community. You should recognize it by now, but if you haven't, let me
 introduce you to my favorite slogan in Python: Come for the language, stay for
 the community.
 
