@@ -163,8 +163,6 @@ I developed that notion, because my family is most decidedly not. But a thing
 I did learn from my family is that success is about moving forward. And from my
 Mom I learned the importance of building and supporting community.
 
-Semicolon, return.
-
 I think one of my least favorite parts of society's definition of success is
 the lie that success means "the end." The problem is, it's not. Our stories keep
 going after we meet success.
@@ -195,7 +193,7 @@ I've spent the last ten minutes or so talking about my success. My goal is to
 talk about the "accepting" part.
 
 I'm going to be honest: I don't think I'm doing well with that part. What I
-learned while writing this talk is that that's still hard. But there's a thing
+learned while writing this talk is that that's still hard for me. But there's a thing
 I did figure out: I can affirm my success. And I think that's the first step
 on the road to believing it.
 
@@ -207,10 +205,11 @@ a book editor that struggles with suicide ideation and loves her community.
 
 The title of this talk changed late in its life, when a friend of mine had a
 dream in which I read a poem called semicolon return. It was incredibly apt as
-I've been wrestling the last month with intense suicide ideation. For those who
-don't know, there is a thing called Project semicolon, a suicide prevention
-project. It was first introduced to me by people who shared their story. The
-advertising tag they used is "Your story isn't over."
+I've been wrestling the last month with intense suicide ideation.
+
+For those who don't know, there is a thing called Project semicolon, a suicide 
+prevention project. It was first introduced to me by people who shared their 
+story. The advertising tag they used is "Your story isn't over."
 
 It's important to me that much of what I write when I get personal is not for
 myself. It's for the me of 10 and 20 years ago. The little kid who will be going
@@ -218,12 +217,12 @@ through a world of hurt. It's for the friends I have _now_ who haven't reached
 out. I stand on a stage and be vulnerable because I needed people to do that for
 me.
 
-We are community. You should recognize it by now, but if you haven't, let me
-introduce you to my favorite slogan in Python: Come for the language, stay for
-the community.
+We, here, are community. You should recognize this quote by now, but if you
+haven't heard it, let me introduce you to my favorite slogan in Python: Come
+for the language, stay for the community.
 
 I didn't get to stand here because I worked hard and made it happen, though I
-had to do that to. I had peers and mentors who helped lift me up when I was at
+had to do that too. I had peers and mentors who helped lift me up when I was at
 my lowest. So I want to leave you all with a challenge: I'm going to ask you to
 give back. If you're new to the community: go find a local event and volunteer.
 If you've been around, think about what it is you do well, and help someone else
@@ -243,7 +242,7 @@ around, you should look for people you don't recognize and new faces and help
 lift them up.
 
 Stop treating societal expectations as success metrics: write your own success
-story.
+story and learn to recognize when success doesn't look like you imagine.
 
 If you're struggling with your mental health: you're not alone. Don't be afraid
 to reach out to those around you.
